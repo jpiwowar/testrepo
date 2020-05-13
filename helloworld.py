@@ -1,5 +1,5 @@
 def helloworld():
-  print('Version 1.0')
+  print('Not a branch, so much as a twig, really.')
   print('Hello World.  #STFI')
   print('Seriously, STFI.  Dr. Henry says so.')
 
